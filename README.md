@@ -16,7 +16,8 @@ This section documents the process of retrieving GitHub user information and cre
    
 3. **Screenshot:**
    - **Request and Response Setup**: Below is the screenshot of the request setup in Postman and screenshot showing the response containing repository data:
-     ![Request Setup](path/to/your/request-setup-screenshot.png)
+     ![Request and Response Setup](https://github.com/user-attachments/assets/f5622fdf-81b4-4890-9aa0-4462b62248ad)
+
 
 ### Part 2: Create a New Repository
 
@@ -38,7 +39,7 @@ This section documents the process of retrieving GitHub user information and cre
 
 3. **Screenshot:**
    - **Request and Response Setup**: Below is the screenshot of the request setup in Postman and screenshot showing the response containing repository data:
-     ![Request Setup](path/to/your/request-setup-screenshot.png)
+     ![Request and Response Setup](https://github.com/user-attachments/assets/21cececd-962c-43db-9a55-515112f5e156)
 
 ### Conclusion
 
